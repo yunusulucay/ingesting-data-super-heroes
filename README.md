@@ -1,12 +1,12 @@
-# ingesting-data-super-heroes
+# Ingesting Data Super Heroes Dataset
 
 I used Amazon S3 Bucket, Amazon Redshift and Amazon Athena. Send get files. Store files. 
 
-# Work Flow
+## Work Flow
 
 ![ingesting_data](https://user-images.githubusercontent.com/42489236/151793739-2837bbac-5d43-48b4-bd6a-dd31278d655d.jpg)
 
-# Project Steps
+## Project Steps
 
 Most of the project i used boto3. Some include AWS Management Console Applications.
 
